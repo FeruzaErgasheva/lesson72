@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38924361590",
+    "project_id": "travels-lesson72",
+    "storage_bucket": "travels-lesson72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38924361590:android:1c130d0dc0868aca082457",
+        "android_client_info": {
+          "package_name": "com.example.lesson72"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3wwXTbulPbJpwvdRgSYIDBCFIt3DWSqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
